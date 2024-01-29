@@ -1,4 +1,4 @@
-2000# Machine Learning na Prática no Azure ML (DIO)
+# Machine Learning na Prática no Azure ML (DIO)
 
 ## DIO challenge for the Microsoft Azure AI Fundamentals certification.
 
